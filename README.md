@@ -1,0 +1,1 @@
+se comparte la base de datos en la carpeta llamada bd, fue utilizada en la unidad 3 para guardar los comentarios, ya que en git no se puede abrir directamente, pero se la comparto para que pueda importarla y asi poder almacenar los comentarios de la unidad 3.
